@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="job4j_clean_code_lsp" />
+        <module name="job4j_test_temp_my" />
       </profile>
     </annotationProcessing>
   </component>
